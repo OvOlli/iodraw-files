@@ -22,16 +22,16 @@
         <mxCell id="VTGMUMOfLLoF3edPh9Ue-5" value="t_homework" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VTGMUMOfLLoF3edPh9Ue-1">
           <mxGeometry x="544" y="55" width="149" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VTGMUMOfLLoF3edPh9Ue-6" value="t_message" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VTGMUMOfLLoF3edPh9Ue-1">
+        <mxCell id="VTGMUMOfLLoF3edPh9Ue-6" value="t_message" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VTGMUMOfLLoF3edPh9Ue-1">
           <mxGeometry x="743" y="55" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VTGMUMOfLLoF3edPh9Ue-7" value="业务逻辑层 Business Logic Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="170" y="236" width="604" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="VTGMUMOfLLoF3edPh9Ue-8" value="Servlet Controller" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VTGMUMOfLLoF3edPh9Ue-7">
+        <mxCell id="VTGMUMOfLLoF3edPh9Ue-8" value="Servlet Controller" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VTGMUMOfLLoF3edPh9Ue-7">
           <mxGeometry x="43" y="46" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VTGMUMOfLLoF3edPh9Ue-9" value="Service组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VTGMUMOfLLoF3edPh9Ue-7">
+        <mxCell id="VTGMUMOfLLoF3edPh9Ue-9" value="Service组件" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VTGMUMOfLLoF3edPh9Ue-7">
           <mxGeometry x="281" y="46" width="144" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VTGMUMOfLLoF3edPh9Ue-10" value="Model" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VTGMUMOfLLoF3edPh9Ue-7">
