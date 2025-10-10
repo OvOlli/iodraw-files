@@ -34,10 +34,10 @@
         <mxCell id="VTGMUMOfLLoF3edPh9Ue-9" value="Service组件" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VTGMUMOfLLoF3edPh9Ue-7">
           <mxGeometry x="281" y="46" width="144" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VTGMUMOfLLoF3edPh9Ue-10" value="Model" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VTGMUMOfLLoF3edPh9Ue-7">
+        <mxCell id="VTGMUMOfLLoF3edPh9Ue-10" value="Model" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VTGMUMOfLLoF3edPh9Ue-7">
           <mxGeometry x="475" y="46" width="102" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VTGMUMOfLLoF3edPh9Ue-11" value="表示层 Presentation Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="VTGMUMOfLLoF3edPh9Ue-11" value="表示层 Presentation Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="321" y="433" width="302" height="141" as="geometry" />
         </mxCell>
         <mxCell id="VTGMUMOfLLoF3edPh9Ue-12" value="浏览器&#xa;HTML5/CSS3/JavaScript" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VTGMUMOfLLoF3edPh9Ue-11">
