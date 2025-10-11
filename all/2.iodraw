@@ -33,7 +33,7 @@
             <mxRectangle width="72" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NrMj64y6F8HiyoXtQ3Yp-613" value="course_description" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;fixDash=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="NrMj64y6F8HiyoXtQ3Yp-611">
+        <mxCell id="NrMj64y6F8HiyoXtQ3Yp-613" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;fixDash=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="NrMj64y6F8HiyoXtQ3Yp-611">
           <mxGeometry x="72" width="108" height="22" as="geometry">
             <mxRectangle width="108" height="22" as="alternateBounds" />
           </mxGeometry>
