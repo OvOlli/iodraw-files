@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="343aT1wwF1XXzwgGTyy5">
-    <mxGraphModel dx="482" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="773" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="NrMj64y6F8HiyoXtQ3Yp-116" value="学生登录" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="1269" y="424" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NrMj64y6F8HiyoXtQ3Yp-117" value="选择学习功能" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="NrMj64y6F8HiyoXtQ3Yp-117" value="选择学习功能" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1259" y="522" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="NrMj64y6F8HiyoXtQ3Yp-118" value="视频学习" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
@@ -52,10 +52,10 @@
         <mxCell id="NrMj64y6F8HiyoXtQ3Yp-124" value="学习进度更新" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="1170" y="914" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NrMj64y6F8HiyoXtQ3Yp-125" value="继续学习?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="NrMj64y6F8HiyoXtQ3Yp-125" value="继续学习?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1415" y="1013" width="119" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="NrMj64y6F8HiyoXtQ3Yp-126" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="NrMj64y6F8HiyoXtQ3Yp-126" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1447" y="1204" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="NrMj64y6F8HiyoXtQ3Yp-127" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="NrMj64y6F8HiyoXtQ3Yp-115" target="NrMj64y6F8HiyoXtQ3Yp-116">
