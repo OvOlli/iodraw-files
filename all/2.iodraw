@@ -25,7 +25,7 @@
         <mxCell id="NrMj64y6F8HiyoXtQ3Yp-88" value="信息查看" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="829" y="397" width="174" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="NrMj64y6F8HiyoXtQ3Yp-89" value="教学互动" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;align=left;" vertex="1" parent="1">
+        <mxCell id="NrMj64y6F8HiyoXtQ3Yp-89" value="教学互动" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="614" y="259" width="389" height="119" as="geometry" />
         </mxCell>
         <mxCell id="NrMj64y6F8HiyoXtQ3Yp-90" value="教学资源管理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
