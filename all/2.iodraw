@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="343aT1wwF1XXzwgGTyy5">
-    <mxGraphModel dx="1630" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="435" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="NrMj64y6F8HiyoXtQ3Yp-88" value="信息查看" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="829" y="397" width="174" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="NrMj64y6F8HiyoXtQ3Yp-89" value="教学互动" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="NrMj64y6F8HiyoXtQ3Yp-89" value="教学互动" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;align=left;" vertex="1" parent="1">
           <mxGeometry x="614" y="259" width="389" height="119" as="geometry" />
         </mxCell>
         <mxCell id="NrMj64y6F8HiyoXtQ3Yp-90" value="教学资源管理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
